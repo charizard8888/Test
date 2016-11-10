@@ -11,6 +11,7 @@ IVs: 0 Atk
 - Volt Switch  
 - Boomburst
 - Bleh Flame
+
 Bleh Flame: Accuracy: 100 Base Power: 100 | Special Attack| 40% chance to raise the user's Attack, Defense, Special Attack, Special Defense, and Speed by 1 stage
 
 ### charizard8888
@@ -22,6 +23,7 @@ Jolly Nature
 - Extreme Speed
 - Earthquake 
 - gg m8
+
 ggm8  Dragon Type | Physical move | 150 Base Power | Accuracy: 100 |PP: 15| Additional Effect : 50 % chance to Burn the Target and 80 % chance to increase the speed by 1 Stage| Animation: Like V-Create|Priority: 0|
 
 The God of Haxorus 
@@ -34,6 +36,7 @@ Adamant Nature
 - Diamond Storm
 - Sacred Fire
 - Haxing Rage 
+
 Haxing Rage Power: 130 Base Power | Physical | Dragon Type | Animation Outrage | 40% chance to confuse the target, 40% chance to raise user's attack by 1 stage, drains 50% of the damage dealt.
 
 Hydrostatics
@@ -44,6 +47,7 @@ IVs: 0 Atk
 - Hydro Pump  
 - Flash Cannon  
 -Space Compress
+
 Space Compress: Increases The SpA, sp def and evasion of the user| decreases the attack, def and speed of the opponent's pokemon| 
 PP: 15| Priority 0| Status
 
@@ -56,6 +60,7 @@ Adamant Nature
 - Iron Head  
 - U-turn  
 - Sacred Hax 
+
 Sacred Hax: Psychic Type | Physical move | 150 Base Power |PP: 15| Additional Effect: 40% Chance too burn the target | Animation: Bolt Strike|Priority:0
 Flair Hax: Mega Hax Serene Grace +  Protean
 
@@ -68,7 +73,8 @@ IVs: 0 Def / 0 SpD
 - Dragon Ascent  
 - Tail Glow  
 - Draco Meteor  
-- Legend's Ambition (Power: 0 +10 for every typing that exists. So basically 180), Attack: Special, Accuracy: 100%, Type: Dragon, PP: 8, Priority: 1, âŸGen: 5 Contest Condition: Cool,âŸâ€ŠTarget: One Adjacent PokÃ©mon
+- Legend's Ambition
+(Power: 0 +10 for every typing that exists. So basically 180), Attack: Special, Accuracy: 100%, Type: Dragon, PP: 8, Priority: 1, âŸGen: 5 Contest Condition: Cool,âŸâ€ŠTarget: One Adjacent PokÃ©mon
 Secondary effects: Super effective to all Pokemon including Fairy-type Pokemon. User loses 50% of their HP on use and speed is decreased by 2x making it 0.5
 
 Theswordbreaker
@@ -94,6 +100,7 @@ IVs: 0 Atk
 - Shadow Ball  
 - Dragon Pulse  
 - The Loom Effect
+
 Move Info: Dragon Type | Special Attack | Base: 100 | Accuracy: 100% | Max PP: 15 | Boosts Def & Sp.Def by 2x, Heals 40% of the damage done | Bolt Strike Effect
 
 OriolesFan52
