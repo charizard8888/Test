@@ -1,7 +1,7 @@
 # Dragon Heaven Super Staff Bros sets
 
-XpRienzo ☑-☑
-XpRiezno ☑-☑ (Reshiram) (M) @ Charcoal  
+### XpRienzo ☑-☑
+Reshiram @ Charcoal  
 Ability: Adaptability + Levitate  
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
@@ -10,11 +10,10 @@ IVs: 0 Atk
 - Volt Switch  
 - Boomburst
 - Bleh Flame
-
 Bleh Flame: Accuracy: 100 Base Power: 100 | Special Attack| 40% chance to raise the user's Attack, Defense, Special Attack, Special Defense, and Speed by 1 stage
 
-charizard8888
-charizard8888 (Charizard-Mega-X) (M) @ Charizardite X  
+### charizard8888
+Mega Charizard X @ Charizardite X  
 Ability: Refrigerate
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
@@ -22,7 +21,6 @@ Jolly Nature
 - Extreme Speed
 - Earthquake 
 - gg m8
- 
 ggm8  Dragon Type | Physical move | 150 Base Power | Accuracy: 100 |PP: 15| Additional Effect : 50 % chance to Burn the Target and 80 % chance to increase the speed by 1 Stage| Animation: Like V-Create|Priority: 0|
 
 The God of Haxorus 
