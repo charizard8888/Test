@@ -7,7 +7,7 @@ Reshiram @ Charcoal
 
 Ability: Adaptability + Levitate  
 
-EVs: 252 SpA / 4 SpD / 252 Spe  
+EVs: 252 SpA / 252 Spe / 4 SpD 
 
 Timid Nature  
 IVs: 0 Atk  
@@ -24,9 +24,7 @@ Rayquaza-Mega @ Life Orb
 Ability: Wonder Breaker 
 
 EVs: 248 HP / 252 Atk / 252 SpA / 252 Spe
-
 Mild Nature
-
 EVs: 
 - Dragon Ascent  
 - Tail Glow  
@@ -63,6 +61,7 @@ Serious Nature
 - Ice Shard
 
 Shell Armor Clone:
+
 Ice Shard:
 
 ### Snaq
@@ -72,6 +71,22 @@ Ability: Parting Shot Spam
 - Splash
 
 Paring Shot Spam: Uses Parting Shot on switch in
+
+### Spookuaza
+~~Pumpkaboo~~ Phantump @ Eviolite 
+
+Ability: Phantom Guard
+
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Destiny Bond  
+- Will-O-Wisp  
+- Horn Leech
+- Necromancy
+
+Phantom Guard:
+
+Necromancy:
 
 ### charizard8888
 
@@ -88,6 +103,22 @@ Jolly Nature
  
 ggm8  Dragon Type | Physical move | 150 Base Power | Accuracy: 100 |PP: 15| Additional Effect : 50 % chance to Burn the Target and 80 % chance to increase the speed by 1 Stage| Animation: Like V-Create|Priority: 0|
 
+### PI EddyChomp
+Mega Garchomp @ Focus Sash 
+
+Ability: Epic Claws  
+
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Precipice Blades  
+- Dragon Claw  
+- Sacred Fire
+- GARCHOMP EPICNESS
+
+Epic Claws: Description will be added soon (the mon is getting buffed)
+
+GARCHOMP EPICNESS:  ^
+
 ### The God of Haxorus 
 Haxorus @ Life Orb
 
@@ -101,6 +132,7 @@ Adamant Nature
 - Haxing Rage 
 
 Haxing Rage Power: 130 Base Power | Physical | Dragon Type | Animation Outrage | 40% chance to confuse the target, 40% chance to raise user's attack by 1 stage, drains 50% of the damage dealt.
+
 Blessed Hax Serene Grace + Speed Boost + Raises Defense and Special Defense by 1 upon entry.
 
 ### Hydrostatics
@@ -131,6 +163,7 @@ Adamant Nature
 - Sacred Hax 
 
 Sacred Hax: Psychic Type | Physical move | 150 Base Power |PP: 15| Additional Effect: 40% Chance too burn the target | Animation: Bolt Strike|Priority:0
+
 Flair Hax: Mega Hax Serene Grace +  Protean
 
 ### Theswordbreaker
@@ -181,6 +214,7 @@ Jolly Nature
 - Bone Crushing Death Roll     
 
 Aquify: Turns all normal type moves into water type and gives them 1.5x power   
+
 Bone Crushing Death Roll: Normal Base 120 power 100% chance to lower opponents defense and sp. def by 1 stage 16 pp 100% acc. 25% chance to ohko   
 
 
@@ -198,6 +232,7 @@ Naughty Nature
 - Power Lick (custom) 
 
 Power Lick( Drains 1/8 of health and a 10% to paralyze or make the opponent sleep and a 30% to raise one random stat.
+
 Big Bullet Gun (Contrary | make Close Combat a special move instead of physical |+3 Def on switch in |+ 3 SpD on switch in)
 
 
@@ -216,6 +251,7 @@ IVs: 0 Atk
 - Super Switch
 
 Hidden: Gets a Substitute on switch in
+
 Super Switch: Raises Def and SpD by 1 stage then Baton Pass| Priority 5| PP 5
 
 ### Eternal Mayhem
@@ -274,3 +310,50 @@ EVs: 252 Atk / 252 Spe / 4 SpD
 
 Massacre: Priorty +3| Base Power 250| Additional Effect| The user faints after using it| Dragon Type| Physical
 
+### Shivam Rustagi
+Giratnia @ Leftovers
+
+Ability: Bad Dreams
+
+EVs: 252 SpA / 252 SpD / 4 SpD
+Adamant Nature
+- Shadow Ball
+- Dragon Pulse 
+- Dream Eater
+- Secret Killer
+
+Secret Killer: 
+
+### Elcrest
+Dratini @ Unknown Sash
+
+Ability: Water Change
+
+EVs: 252 Atk / 252 Spe / 4 HP
+
+Nature
+- Dragon Dance
+- Outrage
+- Rain Dance
+- Turbulence
+
+Water Change:
+Turbulence: Physical| Flying Type|60 Base Power|100% Accuracy| Priority +1|
+
+### Diarmuid O'Dyna
+Suicune @ Leftovers
+
+Ability: Serene Grace
+
+EVs: 252 HP / 252 Def / 4 SpD
+
+Nature
+- Flirt
+- Yandere Blast
+- Forced Assistance
+- Bitch Slap
+
+ Flirt: Same as Attract
+ Yandere Blast: 
+ Forced Assistance: Same as Tailwind
+ Bitch Slap:
