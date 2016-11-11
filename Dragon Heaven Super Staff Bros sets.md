@@ -17,6 +17,44 @@ IVs: 0 Atk
 
 Bleh Flame: Accuracy: 100 Base Power: 100 | Special Attack| 40% chance to raise the user's Attack, Defense, Special Attack, Special Defense, and Speed by 1 stage
 
+### Ransei
+Rayquaza-Mega @ Life Orb
+
+Ability: Wonder Breaker 
+
+EVs: 248 HP / 252 Atk / 252 SpA / 252 Spe
+
+Mild Nature
+
+EVs: 
+- Dragon Ascent  
+- Tail Glow  
+- Draco Meteor  
+- Legend's Ambition 
+
+Legend's Ambition (Power: 0 +10 for every typing that exists. So basically 180), Attack: Special, Accuracy: 100%, Type: Dragon, PP: 8, Priority: 1, Gen: 5 Contest Condition: Cool,âŸâ€ŠTarget: One Adjacent PokÃ©mon
+Secondary effects: Super effective to all Pokemon including Fairy-type Pokemon. User loses 50% of their HP on use and speed is decreased by 2x making it 0.5
+
+Wonder Breaker: - This Pokemon's moves and their effects ignore the Abilities and Stat Boosts of other Pokemon, Status inflicted from other Pokemon, and cannot have its stats lowered.
+
+### Spandan
+Salamence-Mega @ Salamencite
+
+Ability: Multiscale then Aerilate
+- Shift Gear  
+- Boomburst  
+- Extreme Speed  
+- Yo Mamma Joke
+
+Yo Mamma Joke: +1 Priority| Physical Move| Base Power ()|
+
+### Snaquaza 
+
+### Snaq
+Magikarp @ 
+Ability:
+- Splash
+
 ### charizard8888
 
 Mega Charizard X @ Charizardite X  
@@ -76,23 +114,6 @@ Adamant Nature
 
 Sacred Hax: Psychic Type | Physical move | 150 Base Power |PP: 15| Additional Effect: 40% Chance too burn the target | Animation: Bolt Strike|Priority:0
 Flair Hax: Mega Hax Serene Grace +  Protean
-
-### Ransei
-Rayquaza-Mega @ Life Orb
-
-Ability: Wonder Breaker 
-EVs: 248 HP / 252 Atk / 252 SpA / 252 Spe  
-Mild Nature
-IVs: 0 Def / 0 SpD
-- Dragon Ascent  
-- Tail Glow  
-- Draco Meteor  
-- Legend's Ambition 
-
-Legend's Ambition (Power: 0 +10 for every typing that exists. So basically 180), Attack: Special, Accuracy: 100%, Type: Dragon, PP: 8, Priority: 1, Gen: 5 Contest Condition: Cool,âŸâ€ŠTarget: One Adjacent PokÃ©mon
-Secondary effects: Super effective to all Pokemon including Fairy-type Pokemon. User loses 50% of their HP on use and speed is decreased by 2x making it 0.5
-
-Wonder Breaker: - This Pokemon's moves and their effects ignore the Abilities and Stat Boosts of other Pokemon, Status inflicted from other Pokemon, and cannot have its stats lowered.
 
 ### Theswordbreaker
 Arceus-Dragon @ Draco Plate
