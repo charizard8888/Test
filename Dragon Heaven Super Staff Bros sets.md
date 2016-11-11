@@ -29,7 +29,6 @@ ggm8  Dragon Type | Physical move | 150 Base Power | Accuracy: 100 |PP: 15| Addi
 ### The God of Haxorus 
 Haxorus @ Life Orb
 Ability: Blessed Hax
-Ability Description: Serene Grace + Speed Boost + Raises Defense and Special Defense by 1 upon entry.
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Adamant Nature  
 - Iron Head
@@ -38,6 +37,7 @@ Adamant Nature
 - Haxing Rage 
 
 Haxing Rage Power: 130 Base Power | Physical | Dragon Type | Animation Outrage | 40% chance to confuse the target, 40% chance to raise user's attack by 1 stage, drains 50% of the damage dealt.
+Blessed Hax Serene Grace + Speed Boost + Raises Defense and Special Defense by 1 upon entry.
 
 ### Hydrostatics
 Palkia @ Leftovers  
@@ -52,7 +52,7 @@ Space Compress: Increases The SpA, sp def and evasion of the user| decreases the
 PP: 15| Priority 0| Status
 
 ### Digital Edge 
-Flareon @ Focus Sash 
+Flareon @ Focus Sash
 Ability: Flair Hax
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Adamant Nature  
@@ -65,11 +65,11 @@ Sacred Hax: Psychic Type | Physical move | 150 Base Power |PP: 15| Additional Ef
 Flair Hax: Mega Hax Serene Grace +  Protean
 
 ### Ransei
-Rayquaza-Mega @ Life Orb  
+Rayquaza-Mega @ Life Orb
 Ability: Wonder Breaker - This Pokemon's moves and their effects ignore the Abilities and Stat Boosts of other Pokemon, Status inflicted from other Pokemon, and cannot have its stats lowered.
 EVs: 248 HP / 252 Atk / 252 SpA / 252 Spe  
-Mild Nature  
-IVs: 0 Def / 0 SpD  
+Mild Nature
+IVs: 0 Def / 0 SpD
 - Dragon Ascent  
 - Tail Glow  
 - Draco Meteor  
@@ -77,10 +77,10 @@ IVs: 0 Def / 0 SpD
 Secondary effects: Super effective to all Pokemon including Fairy-type Pokemon. User loses 50% of their HP on use and speed is decreased by 2x making it 0.5
 
 ### Theswordbreaker
-Arceus-Dragon @ Draco Plate  
+Arceus-Dragon @ Draco Plate
 Ability: No Guard + Shadow Tag
 EVs: 248 HP / 252 SpA / 8 SpD  
-Modest Nature  
+Modest Nature
 IVs: 0 Atk  
 - Spacial Rend  
 - Focus Blast  
@@ -90,7 +90,7 @@ IVs: 0 Atk
 Wait and Hope Flying Type |Special Move|Priority:0|Base Power: 100|Effect just like Fly tow turns, 30% chance to Paralyze the target|PP: 20|Animation:Sky Attack|Accuracy:100
 
 ### Loominite
-Giratina-Origin @ Griseous Orb  
+Giratina-Origin @ Griseous Orb
 Ability: The UnderLord
 Ability Info: Changes type that is weak/immune to  the opponent's Pokemon after hit. 10% chance to burn when physically hit. 
 Shiny: Yes  
@@ -102,7 +102,7 @@ IVs: 0 Atk
 Move Info: Dragon Type | Special Attack | Base: 100 | Accuracy: 100% | Max PP: 15 | Boosts Def & Sp.Def by 2x, Heals 40% of the damage done | Bolt Strike Effect
 
 ### OriolesFan52
-Feraligatr @ Life Orb  
+Feraligatr @ Life Orb
 Ability: Aquify
 Shiny: Yes  
 EVs: 252 Atk / 4 SpD / 252 Spe  
@@ -117,7 +117,7 @@ Bone Crushing Death Roll: Normal Base 120 power 100% chance to lower opponents d
 
 
 ### BBgun999
-Goodra @ Rocky Helmet  
+Goodra @ Rocky Helmet
 Ability: Big Bullet Gun 
 EVs: 252 HP / 4 Def / 252 SpD  
 Naughty Nature  
