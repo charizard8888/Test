@@ -28,7 +28,9 @@ ggm8  Dragon Type | Physical move | 150 Base Power | Accuracy: 100 |PP: 15| Addi
 
 ### The God of Haxorus 
 Haxorus @ Life Orb
+
 Ability: Blessed Hax
+
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Adamant Nature  
 - Iron Head
