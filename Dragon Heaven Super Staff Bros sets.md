@@ -32,7 +32,7 @@ EVs:
 - Draco Meteor  
 - Legend's Ambition 
 
-Legend's Ambition (Power: 0 +10 for every typing that exists. So basically 180), Attack: Special, Accuracy: 100%, Type: Dragon, PP: 8, Priority: 1, Gen: 5 Contest Condition: Cool,âŸâ€ŠTarget: One Adjacent PokÃ©mon
+Legend's Ambition (Power: 0 +10 for every typing that exists. So basically 180), Attack: Special, Accuracy: 100%| Type: Dragon| PP: 8| Priority: 1
 Secondary effects: Super effective to all Pokemon including Fairy-type Pokemon. User loses 50% of their HP on use and speed is decreased by 2x making it 0.5
 
 Wonder Breaker: - This Pokemon's moves and their effects ignore the Abilities and Stat Boosts of other Pokemon, Status inflicted from other Pokemon, and cannot have its stats lowered.
@@ -49,11 +49,28 @@ Ability: Multiscale then Aerilate
 Yo Mamma Joke: +1 Priority| Physical Move| Base Power ()|
 
 ### Snaquaza 
+Lapras @ Leftovers
+
+Ability: Shell Armor Clone
+
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+
+Serious Nature
+- Ice Beam  
+- Ancient Power  
+- Surf  
+- Ice Shard
+
+Shell Armor Clone:
+Ice Shard:
 
 ### Snaq
-Magikarp @ 
-Ability:
+Magikarp @ Air Balloon
+
+Ability: Parting Shot Spam
 - Splash
+
+Paring Shot Spam: Uses Parting Shot on switch in
 
 ### charizard8888
 
