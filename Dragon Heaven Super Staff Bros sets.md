@@ -242,3 +242,34 @@ Jolly Nature
 - Belly Drum
 - Recover
 - BANHAMMAH
+
+Slowchat:
+BANHAMMAH:
+
+### Flygonerz
+Flygon @ Focus Sash
+
+Ability: Tough Bounce
+
+EVs: 252 Atk / 252 Spe / 4 HP
+- Outrage
+- Thousand Arrows
+- Extreme Speed
+- Dragon Shift
+
+Tough Bounce:
+Dragon Shift: Boosts Atk by 3 Stages, Defence by 1 Stage, Speed by 2	stages, SpD by 1 stage and uses Wish| Status Move
+
+### BatterBotto
+Dragonite @ Iron Ball
+
+Ability: Protean
+
+EVs: 252 Atk / 252 Spe / 4 SpD
+- High Jump Kick
+- Extreme Speed
+- V-Create
+- Massacare
+
+Massacre: Priorty +3| Base Power 250| Additional Effect| The user faints after using it| Dragon Type| Physical
+
