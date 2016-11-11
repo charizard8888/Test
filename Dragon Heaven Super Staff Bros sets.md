@@ -140,7 +140,9 @@ Palkia @ Leftovers
 
 Ability: Pressure + Mold Breaker
 
-IVs: 0 Atk  
+EVs: 252 SpA / 252 Spe / 4 HP
+
+Modest Nature
 - Spacial Rend  
 - Hydro Pump  
 - Flash Cannon  
@@ -281,7 +283,7 @@ Jolly Nature
 - BANHAMMAH
 
 Slowchat:
-BANHAMMAH:
+BANHAMMAH: Status Move| Effect: Same as Roar| Priority +7| PP 5
 
 ### Flygonerz
 Flygon @ Focus Sash
@@ -357,3 +359,35 @@ Nature
  Yandere Blast: 
  Forced Assistance: Same as Tailwind
  Bitch Slap:
+
+### ClassyZ
+Scizor-Mega @ Scizorite
+
+Ability: Technician + Simple
+
+EVs: 252 Atk / 252 HP / 4 SpD
+
+Adamant Nature
+- Swords Dance
+- Mach Punch 
+- Bullet Punch 
+- Hyperspeed Punch
+
+Hyperspeed Punch: Bug Type| 100% Accuracy| Physical Type| Base Power 45| Priority +2
+
+### OutrageousBoT
+Gyarados @ Life Orb
+
+Ability: Dragon Fury
+
+EVs: 252 SpA / 252 Spe / 4 HP
+
+Jolly Nature
+- Outrage
+- Dragoon Dance
+- Draco Meteor
+- Raging Lake
+
+Dragon Fury: 
+
+Raging Lake:
