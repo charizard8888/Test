@@ -1,6 +1,7 @@
-# Dragon Heaven Super Staff Bros sets
-========================================================================
+![Dragon Heaven Super Staff Bros](http://i1279.photobucket.com/albums/y523/textcraft/Nov%202016%20-%202/6e4b25c68c3b6b52614bd0164846292e5edbb3eeda39a3ee5e6b4b0d3255bfef95601890afd80709da39a3ee5e6b4b0d3255bfef95601890afd80709c896_zpsj2inbsfi.png)
 
+#                                        Dragon Heaven Super Staff Bros sets
+========================================================================
 ### XpRienzo ☑-☑
 Reshiram @ Charcoal 
 
