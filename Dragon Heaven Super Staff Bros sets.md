@@ -4,7 +4,6 @@
 ========================================================================
 ### XpRienzo ☑-☑
 Reshiram @ Charcoal 
-
 Ability: Adaptability + Levitate  
 
 EVs: 252 SpA / 252 Spe / 4 SpD 
@@ -24,8 +23,7 @@ Ability: Wonder Breaker
 
 EVs: 
 
-Mild Nature
- 
+Mild Nature 
 - Dragon Ascent  
 - Tail Glow  
 - Draco Meteor  
