@@ -23,7 +23,7 @@ Rayquaza-Mega @ Life Orb
 
 Ability: Wonder Breaker 
 
-EVs: 248 HP / 252 Atk / 252 SpA / 252 Spe
+EVs: 
 
 Mild Nature
  
