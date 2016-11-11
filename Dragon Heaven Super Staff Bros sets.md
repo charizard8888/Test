@@ -4,6 +4,7 @@
 ========================================================================
 ### XpRienzo ☑-☑
 Reshiram @ Charcoal 
+
 Ability: Adaptability + Levitate  
 
 EVs: 252 SpA / 252 Spe / 4 SpD 
