@@ -24,8 +24,9 @@ Rayquaza-Mega @ Life Orb
 Ability: Wonder Breaker 
 
 EVs: 248 HP / 252 Atk / 252 SpA / 252 Spe
+
 Mild Nature
-EVs: 
+ 
 - Dragon Ascent  
 - Tail Glow  
 - Draco Meteor  
@@ -61,8 +62,6 @@ Serious Nature
 - Ice Shard
 
 Shell Armor Clone:
-
-Ice Shard:
 
 ### Snaq
 Magikarp @ Air Balloon
