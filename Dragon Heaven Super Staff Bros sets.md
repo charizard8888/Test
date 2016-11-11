@@ -2,9 +2,12 @@
 ========================================================================
 
 ### XpRienzo ☑-☑
-XpRiezno ☑-☑ (Reshiram) (M) @ Charcoal  
+Reshiram @ Charcoal 
+
 Ability: Adaptability + Levitate  
+
 EVs: 252 SpA / 4 SpD / 252 Spe  
+
 Timid Nature  
 IVs: 0 Atk  
 - Spacial Rend  
@@ -15,8 +18,11 @@ IVs: 0 Atk
 Bleh Flame: Accuracy: 100 Base Power: 100 | Special Attack| 40% chance to raise the user's Attack, Defense, Special Attack, Special Defense, and Speed by 1 stage
 
 ### charizard8888
+
 Mega Charizard X @ Charizardite X  
+
 Ability: Refrigerate
+
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
 - Fake Out
@@ -43,7 +49,9 @@ Blessed Hax Serene Grace + Speed Boost + Raises Defense and Special Defense by 1
 
 ### Hydrostatics
 Palkia @ Leftovers  
+
 Ability: Pressure + Mold Breaker
+
 IVs: 0 Atk  
 - Spacial Rend  
 - Hydro Pump  
@@ -54,8 +62,11 @@ Space Compress: Increases The SpA, sp def and evasion of the user| decreases the
 PP: 15| Priority 0| Status
 
 ### Digital Edge 
+
 Flareon @ Focus Sash
+
 Ability: Flair Hax
+
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Adamant Nature  
 - Icicle Crash  
@@ -68,21 +79,30 @@ Flair Hax: Mega Hax Serene Grace +  Protean
 
 ### Ransei
 Rayquaza-Mega @ Life Orb
-Ability: Wonder Breaker - This Pokemon's moves and their effects ignore the Abilities and Stat Boosts of other Pokemon, Status inflicted from other Pokemon, and cannot have its stats lowered.
+
+Ability: Wonder Breaker 
 EVs: 248 HP / 252 Atk / 252 SpA / 252 Spe  
 Mild Nature
 IVs: 0 Def / 0 SpD
 - Dragon Ascent  
 - Tail Glow  
 - Draco Meteor  
-- Legend's Ambition (Power: 0 +10 for every typing that exists. So basically 180), Attack: Special, Accuracy: 100%, Type: Dragon, PP: 8, Priority: 1, âŸGen: 5 Contest Condition: Cool,âŸâ€ŠTarget: One Adjacent PokÃ©mon
+- Legend's Ambition 
+
+Legend's Ambition (Power: 0 +10 for every typing that exists. So basically 180), Attack: Special, Accuracy: 100%, Type: Dragon, PP: 8, Priority: 1, Gen: 5 Contest Condition: Cool,âŸâ€ŠTarget: One Adjacent PokÃ©mon
 Secondary effects: Super effective to all Pokemon including Fairy-type Pokemon. User loses 50% of their HP on use and speed is decreased by 2x making it 0.5
+
+Wonder Breaker: - This Pokemon's moves and their effects ignore the Abilities and Stat Boosts of other Pokemon, Status inflicted from other Pokemon, and cannot have its stats lowered.
 
 ### Theswordbreaker
 Arceus-Dragon @ Draco Plate
+
 Ability: No Guard + Shadow Tag
-EVs: 248 HP / 252 SpA / 8 SpD  
+
+EVs: 248 HP / 252 SpA / 8 SpD 
+
 Modest Nature
+
 IVs: 0 Atk  
 - Spacial Rend  
 - Focus Blast  
@@ -93,8 +113,10 @@ Wait and Hope Flying Type |Special Move|Priority:0|Base Power: 100|Effect just l
 
 ### Loominite
 Giratina-Origin @ Griseous Orb
+
 Ability: The UnderLord
-Ability Info: Changes type that is weak/immune to  the opponent's Pokemon after hit. 10% chance to burn when physically hit. 
+
+ 
 Shiny: Yes  
 IVs: 0 Atk  
 - Will-O-Wisp  
@@ -103,10 +125,15 @@ IVs: 0 Atk
 - The Loom Effect
 Move Info: Dragon Type | Special Attack | Base: 100 | Accuracy: 100% | Max PP: 15 | Boosts Def & Sp.Def by 2x, Heals 40% of the damage done | Bolt Strike Effect
 
+The Underlord: Ability Info: Changes type that is weak/immune to  the opponent's Pokemon after hit. 10% chance to burn when physically hit.
+
 ### OriolesFan52
 Feraligatr @ Life Orb
+
 Ability: Aquify
+
 Shiny: Yes  
+
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
 - Extreme Speed 
@@ -120,8 +147,11 @@ Bone Crushing Death Roll: Normal Base 120 power 100% chance to lower opponents d
 
 ### BBgun999
 Goodra @ Rocky Helmet
+
 Ability: Big Bullet Gun 
+
 EVs: 252 HP / 4 Def / 252 SpD  
+
 Naughty Nature  
 - Draco Meteor  
 - Overheat  
@@ -133,9 +163,12 @@ Big Bullet Gun (Contrary | make Close Combat a special move instead of physical 
 
 
 ### Dragitbot
-Draitni @ Leftovers  
+Draitni @ Leftovers 
+
 Ability: Hidden 
-EVs: 252 HP / 252 Def / 4 SpD  
+
+EVs: 252 HP / 252 Def / 4 SpD 
+
 Bold Nature  
 IVs: 0 Atk  
 - Swords Dance  
@@ -148,8 +181,11 @@ Super Switch: Raises Def and SpD by 1 stage then Baton Pass| Priority 5| PP 5
 
 ### Eternal Mayhem
 Kyurem-Black @ Life Orb
+
 Ability: Breakthrough
+
 EVs: 252 Spe / 252 Atk / 4 SpA
+
 Lonely Nature
 - Fusion Bolt
 - Ice Beam
@@ -158,8 +194,11 @@ Lonely Nature
 
 ### Flareon Driod
 Flareon @ Charcoal
+
 Ability: Slowchat
+
 EVs: 252 Atk / 252 Spe / 252 HP
+
 Jolly Nature
 - V-Create
 - Belly Drum
