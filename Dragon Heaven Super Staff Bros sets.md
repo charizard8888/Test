@@ -9,8 +9,7 @@ Ability: Adaptability + Levitate
 
 EVs: 252 SpA / 252 Spe / 4 SpD 
 
-Timid Nature  
-IVs: 0 Atk  
+Timid Nature   
 - Spacial Rend  
 - Volt Switch  
 - Boomburst
