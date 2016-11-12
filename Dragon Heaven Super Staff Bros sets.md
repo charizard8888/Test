@@ -3,6 +3,9 @@
 #                                        Dragon Heaven Super Staff Bros sets
 ========================================================================
 ### XpRienzo ☑-☑
+
+![XpRienzo](http://www.smogon.com/dex/media/sprites/xy/reshiram.gif)
+
 Reshiram @ Charcoal 
 
 Ability: Adaptability + Levitate  
@@ -36,6 +39,8 @@ Secondary effects: Super effective to all Pokemon including Fairy-type Pokemon. 
 Wonder Breaker: - This Pokemon's moves and their effects ignore the Abilities and Stat Boosts of other Pokemon, Status inflicted from other Pokemon, and cannot have its stats lowered.
 
 ### Spandan
+![Spandan](http://www.smogon.com/dex/media/sprites/xy/salamence-mega.gif)
+
 Salamence-Mega @ Salamencite
 
 Ability: Multiscale then Aerilate
@@ -44,7 +49,7 @@ Ability: Multiscale then Aerilate
 - Extreme Speed  
 - Yo Mamma Joke
 
-Yo Mamma Joke: +1 Priority| Physical Move| Base Power ()|
+Yo Mamma Joke: +1 Priority| Physical Move| 150 Base Power| User recovers 75% of the damage dealt| PP:10| Flying Type
 
 ### Snaquaza 
 Lapras @ Leftovers
