@@ -1,9 +1,8 @@
 # Istor
 
-  	yddraig: {
-	      	num: 10001,
-	      	species: "Yddraig",
-	      	types: ["Dragon"],
+## Yddraig
+#10001
+Dragon Type
 		      baseStats: {hp: 60, atk: 60, def: 55, spa: 75, spd: 55, spe: 85},
 	      	abilities: {0: "Infernal Scales", H: "Shed Skin"}, desc: "This Pokemon's Fire-type attacks have their power doubled, the power of Ice-type attacks against this Pokemon is halved, and this Pokemon cannot be frozen. Gaining this Ability while frozen cures it.",
 		shortDesc: "This Pokemon's Water power is 2x; it can't be burned; Fire power against it is halved.",
