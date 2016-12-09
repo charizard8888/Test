@@ -1,7 +1,7 @@
 # Istor
 
 ## Yddraig
-    Dex: 10001,
+    Dex: 10001
    ![Dragon Type](http://play.pokemonshowdown.com/sprites/types/Dragon.png)
     
     Base Stats: HP: 60 Atk: 60 Def: 55 SpA: 75 SpD: 55 Spe 85
