@@ -2,17 +2,17 @@
 
 ## Yddraig
     Dex: 10001,
-    Dragon Type
+    ![Dragon Type](http://play.pokemonshowdown.com/sprites/types/Dragon.png)
     Base Stats: HP: 60 Atk: 60 Def: 55 SpA: 75 SpD: 55 Spe 85
-    Abilities: Infernal Scales,Shed Skin 
+    Abilities: Infernal Scales, Shed Skin 
     Infernal Scales: This Pokemon's Water power is 2x; it can't be burned; Fire power against it is halved.
-    height: 1.1 m
-    weight: 23 Kg
-    color: Red
+    Height: 1.1 m
+    Weight: 23 Kg
+    Color: Red
     Egg Groups: Dragon
     	
 ##  Detuoy: 
-	      	num: 10002,
+	      	Dex: 10002
 	      	species: "Detuoy",
 	      	types: ["Steel", "Flying"],
 		      baseStats: {hp: 60, atk: 120, def: 150, spa: 30, spd: 120, spe: 30},
