@@ -2,13 +2,20 @@
 
 ## Yddraig
     Dex: 10001,
-    ![Dragon Type](http://play.pokemonshowdown.com/sprites/types/Dragon.png)
+   ![Dragon Type](http://play.pokemonshowdown.com/sprites/types/Dragon.png)
+    
     Base Stats: HP: 60 Atk: 60 Def: 55 SpA: 75 SpD: 55 Spe 85
+    
     Abilities: Infernal Scales, Shed Skin 
+    
     Infernal Scales: This Pokemon's Water power is 2x; it can't be burned; Fire power against it is halved.
+    
     Height: 1.1 m
+    
     Weight: 23 Kg
+    
     Color: Red
+    
     Egg Groups: Dragon
     	
 ##  Detuoy: 
