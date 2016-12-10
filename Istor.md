@@ -1,8 +1,8 @@
-# Istor
+#Istor
+##Yddraig  
+Dex: 1001   
+![Dragon Type](http://play.pokemonshowdown.com/sprites/types/Dragon.png)  
 
-## Yddraig
-Dex: 10001 
-![Dragon Type](http://play.pokemonshowdown.com/sprites/types/Dragon.png)	
 
 | HP | Atk | Def | SpA | SpD | Spe |
 |----|-----|-----|-----|-----|-----|
@@ -22,72 +22,73 @@ Endeavor
 Defog     
 Headbutt     
 Aircutter     
-Dragonbreath     
+Dragon Breath     
 Roar     
-Flamecharge      
-Dragondance     
+Flame Charge      
+Dragon Dance     
 Boomburst     
-Dragonrush     
-Doubleteam      
-Clangingscales     
-Dragonpulse     
-Wideguard     
+Dragon Rush     
+Double Team      
+Clanging Scales     
+Dragon Pulse     
+Wide Guard     
 Overheat     
-Dracometeor     
-Workup     
-Dragonclaw     
-Calmmind     
+Draco Meteor     
+Work Up     
+Dragon Claw     
+Calm Mind     
 Roar     
 Toxic     
-Bulkup     
-Hiddenpower     
-Sunnyday     
+Bulk Up     
+Hidden Power     
+Sunny Day     
 Taunt     
-Hyperbeam     
-Lightscreen     
+Hyper Beam     
+Light Screen     
 Protect     
 Roost     
 Safeguard     
 Frustration    
-Solarbeam    
+Solar Beam    
 Thunderbolt     
 Thunder     
 Return     
-Brickbreak     
+Brick Break     
 Reflect     
 Flamethrower     
-Firebast     
-Aerialace     
+Fire Blast     
+Aerial Ace     
 Torment     
 Facade     
 Rest     
 Attract     
 Round     
-Echoedvoice     
-Steelwing     
+Echoed Voice     
+Steel Wing     
 Roost     
-Skydrop     
-Brutalswing     
+Sky Drop     
+Brutal Swing     
 Acrobatics     
-Shadowclaw     
+Shadow Claw     
 Payback     
-Gigaimpact     
-Thunderwave     
-Swordsdance     
+Giga Impact     
+Thunder Wave     
+Swords Dance     
 Fly     
 Bulldoze     
-Dragontail    
+Dragon Tail    
 Infestation     
-Poisonjab     
+Poison Jab     
 Swagger     
-Sleeptalk     
-Uturn     
+Sleep Talk     
+U-Turn     
 Substitute     
 Wildcharge     
 Snarl    
-Naturepower     
-Darkpulse    
+Nature Power     
+Dark Pulse    
 Confide     	
+   	
 ##  Detuoy: 
 	      	Dex: 10002
 	      	species: "Detuoy",
