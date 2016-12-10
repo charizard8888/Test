@@ -104,11 +104,10 @@ Height: 1.8 m	Weight: 666 Kg	Color: Gray	Egg Groups: Mineral
 ###Learnset	
 Explosion
     
-	mycelore: {
-		num: 10003,
-		species: "Mycelore",
-		types: ["Poison", "Fairy"],
-		baseStats: {hp: 45, atk: 31, def: 21, spa: 86, spd: 106, spe: 31},
+##Mycelore	
+Dex: 10003	
+["Poison", "Fairy"]	
+baseStats: {hp: 45, atk: 31, def: 21, spa: 86, spd: 106, spe: 31},
 		abilities: {0: "Serene Grace", 1: "Effect Spore", H: "Wonder Skin"},
 		heightm: 0.2,
 		weightkg: 3.2,
