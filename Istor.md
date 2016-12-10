@@ -11,7 +11,7 @@ Dex: 10001
 Abilities: Infernal Scales, Shed Skin<br/>
 Infernal Scales: This Pokemon's Water power is 2x; it can't be burned; Fire power against it is halved.<br/>
 Height: 1.1 m Weight: 23 Kg	Color: Red	Egg Groups: Dragon<br/>
-Learnset: 
+### Learnset:	
 Inferno     
 Outrage      
 Tackle     
