@@ -6,7 +6,7 @@
 Base Stats: HP: 60 Atk: 60 Def: 55 SpA: 75 SpD: 55 Spe 85 <br/>
 Abilities: Infernal Scales, Shed Skin<br/>
 Infernal Scales: This Pokemon's Water power is 2x; it can't be burned; Fire power against it is halved.<br/>
-Height: 1.1 m<br/>  
+Height: 1.1 m<br>
 Weight: 23 Kg<br/>
 Color: Red<br/>
 Egg Groups: Dragon<br/>
