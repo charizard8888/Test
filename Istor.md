@@ -1,7 +1,7 @@
 # Istor
 
 ## Yddraig
-    Dex: 10001 
+Dex: 10001 
 ![Dragon Type](http://play.pokemonshowdown.com/sprites/types/Dragon.png)  
 Base Stats: HP: 60 Atk: 60 Def: 55 SpA: 75 SpD: 55 Spe 85 <br/>
 Abilities: Infernal Scales, Shed Skin<br/>
@@ -10,7 +10,83 @@ Height: 1.1 m<br>
 Weight: 23 Kg<br/>
 Color: Red<br/>
 Egg Groups: Dragon<br/>
-Learnset: Inferno      Outrage      Tackle     Ember     Tail Whip     Twister     Endeavor     Defog     Headbutt     Aircutter     Dragonbreath     Roar     Flamecharge      Dragondance     Boomburst     Dragonrush     Doubleteam      Cangingscales     Dragonpulse     Wideguard     Overheat     Dracometeor     Workup     Dragonclaw     Calmmind     Roar     Toxic     Bulkup     Hiddenpower     Sunnyday     Taunt     Hyperbeam     Lightscreen     Protect     Roost     Safeguard     Frustration    Solarbeam    Thunderbolt     Thunder     Return     Brickbreak     Reflect     Flamethrower     Firebast     Aerialace     Torment     Facade     Rest     Attract     Round     Echoedvoice     Steelwing     Roost     Skydrop     Brutalswing     Acrobatics     Shadowclaw     Payback     Gigaimpact     Thunderwave     Swordsdance     Fly     Bulldoze     Dragontail    Infestation     Poisonjab     Swagger     Sleeptalk     Uturn     Substitute     Wildcharge     Snarl    Naturepower     Darkpulse    Confide     	
+Learnset: 
+Inferno     
+Outrage      
+Tackle     
+Ember	
+Tail Whip     
+Twister     
+Endeavor     
+Defog     
+Headbutt     
+Aircutter     
+Dragonbreath     
+Roar     
+Flamecharge      
+Dragondance     
+Boomburst     
+Dragonrush     
+Doubleteam      
+Clangingscales     
+Dragonpulse     
+Wideguard     
+Overheat     
+Dracometeor     
+Workup     
+Dragonclaw     
+Calmmind     
+Roar     
+Toxic     
+Bulkup     
+Hiddenpower     
+Sunnyday     
+Taunt     
+Hyperbeam     
+Lightscreen     
+Protect     
+Roost     
+Safeguard     
+Frustration    
+Solarbeam    
+Thunderbolt     
+Thunder     
+Return     
+Brickbreak     
+Reflect     
+Flamethrower     
+Firebast     
+Aerialace     
+Torment     
+Facade     
+Rest     
+Attract     
+Round     
+Echoedvoice     
+Steelwing     
+Roost     
+Skydrop     
+Brutalswing     
+Acrobatics     
+Shadowclaw     
+Payback     
+Gigaimpact     
+Thunderwave     
+Swordsdance     
+Fly     
+Bulldoze     
+Dragontail    
+Infestation     
+Poisonjab     
+Swagger     
+Sleeptalk     
+Uturn     
+Substitute     
+Wildcharge     
+Snarl    
+Naturepower     
+Darkpulse    
+Confide     	
 ##  Detuoy: 
 	      	Dex: 10002
 	      	species: "Detuoy",
@@ -166,84 +242,6 @@ Learnset: Inferno      Outrage      Tackle     Ember     Tail Whip     Twister  
 
 
 # Learnsets
-	yddraig: { learnset: {
-    inferno: ["7L1", "7L54"],
-    outrage: ["7L1", "7L60"],
-    tackle: ["7L1"],
-    ember: ["7L1"],
-    tailwhip: ["7L1"],
-    twister: ["7L1"],
-    endeavor: ["7L4"],
-    defog: ["7L9"],
-    headbutt: ["7L13"],
-    aircutter: ["7L18"],
-    dragonbreath: ["7L22"],
-    roar: ["7L27"],
-    flamecharge: ["7L31", "7M"],
-    dragondance: ["7L36"],
-    boomburst: ["7L40"],
-    dragonrush: ["7L45"],
-    doubleteam: ["7L49", "7M"],
-    clangingscales: ["7E"],
-    dragonpulse: ["7E"],
-    wideguard: ["7E"],
-    overheat: ["7E", "7M"],
-    dracometeor: ["7T"],
-    workup: ["7M"],
-    dragonclaw: ["7M"],
-    calmmind: ["7M"],
-    roar: ["7M"],
-    toxic: ["7M"],
-    bulkup: ["7M"],
-    hiddenpower: ["7M"],
-    sunnyday: ["7M"],
-    taunt: ["7M"],
-    hyperbeam: ["7M"],
-    lightscreen: ["7M"],
-    protect: ["7M"],
-    roost: ["7M"],
-    safeguard: ["7M"],
-    frustration: ["7M"],
-    solarbeam: ["7M"],
-    thunderbolt: ["7M"],
-    thunder: ["7M"],
-    return: ["7M"],
-    brickbreak: ["7M"],
-    reflect: ["7M"],
-    flamethrower: ["7M"],
-    fireblast: ["7M"],
-    aerialace: ["7M"],
-    torment: ["7M"],
-    facade: ["7M"],
-    rest: ["7M"],
-    attract: ["7M"],
-    round: ["7M"],
-    echoedvoice: ["7M"],
-    steelwing: ["7M"],
-    roost: ["7M"],
-    skydrop: ["7M"],
-    brutalswing: ["7M"],
-    acrobatics: ["7M"],
-    shadowclaw: ["7M"],
-    payback: ["7M"],
-    gigaimpact: ["7M"],
-    thunderwave: ["7M"],
-    swordsdance: ["7M"],
-    fly: ["7M"],
-    bulldoze: ["7M"],
-    dragontail: ["7M"],
-    infestation: ["7M"],
-    poisonjab: ["7M"],
-    swagger: ["7M"],
-    sleeptalk: ["7M"],
-    uturn: ["7M"],
-    substitute: ["7M"],
-    wildcharge: ["7M"],
-    snarl: ["7M"],
-    naturepower: ["7M"],
-    darkpulse: ["7M"],
-    confide: ["7M"],
-    }},
 	detuoy: { learnset: {
 		explosion: ["7L1"],
 	}},
