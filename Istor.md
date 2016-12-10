@@ -90,8 +90,9 @@ Dark Pulse
 Confide     	
    	
 ##Detuoy	
-Dex: 10002
-Steel Flying
+Dex: 10002	
+![Steel Type](http://play.pokemonshowdown.com/sprites/types/Steel.png)
+![Flying Type](http://play.pokemonshowdown.com/sprites/types/Flying.png)
 
 | HP | Atk | Def | SpA | SpD | Spe |
 |----|-----|-----|-----|-----|-----|
