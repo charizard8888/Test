@@ -89,17 +89,20 @@ Nature Power
 Dark Pulse    
 Confide     	
    	
-##  Detuoy: 
-	      	Dex: 10002
-	      	species: "Detuoy",
-	      	types: ["Steel", "Flying"],
-		      baseStats: {hp: 60, atk: 120, def: 150, spa: 30, spd: 120, spe: 30},
-	      	abilities: {0: "Aerilate"},
-	      	heightm: 1.8,
-	      	weightkg: 666,
-	      	color: "Gray",
-	      	eggGroups: ["Mineral"],
-    	},
+##Detuoy	
+Dex: 10002
+Steel Flying
+
+| HP | Atk | Def | SpA | SpD | Spe |
+|----|-----|-----|-----|-----|-----|
+| 60 | 120 | 150 | 30  | 120 | 30  |
+|    |     |     |     |     |     |
+
+Abilities: Aerilate<br/>
+Height: 1.8 m	Weight: 666 Kg	Color: Gray	Egg Groups: Mineral	
+###Learnset	
+Explosion
+    
 	mycelore: {
 		num: 10003,
 		species: "Mycelore",
