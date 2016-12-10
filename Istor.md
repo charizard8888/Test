@@ -2,7 +2,12 @@
 
 ## Yddraig
 Dex: 10001 
-![Dragon Type](http://play.pokemonshowdown.com/sprites/types/Dragon.png)  
+![Dragon Type](http://play.pokemonshowdown.com/sprites/types/Dragon.png)	
+
+| HP | Atk | Def | SpA | SpD | Spe |
+|----|-----|-----|-----|-----|-----|
+| 60 | 60  | 55  | 75  | 55  | 85  |
+
 Base Stats: HP: 60 Atk: 60 Def: 55 SpA: 75 SpD: 55 Spe 85 <br/>
 Abilities: Infernal Scales, Shed Skin<br/>
 Infernal Scales: This Pokemon's Water power is 2x; it can't be burned; Fire power against it is halved.<br/>
