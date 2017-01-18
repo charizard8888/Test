@@ -1,5 +1,4 @@
 https://titanpad.com/biWLDxHZaB
-
 Fragility Boost
 For each of the Pokemon used, the lowest base stat the Pokemon has is boosted by x1.5. If the Pokemon has several stats tied for lowest, the stat that is boosted by nature gets the boost. HP cannot be boosted. If the lowest stat is HP, the second lowest stat will be boosted instead. Pokemon carry their same stat boost when they mega evolve. The boost does not switch over to a different stat. For example, if you give Glalie the attack boost of x1.5, when you mega evolve the attack stat will now be Glalie-Mega's base attack multiplied by x1.5
 
@@ -17,7 +16,7 @@ Physical Walls: Zapdos
 
 Special Walls: 
 
-Physical Sweepers: Tyranitar, Crawdaunt, Metagross, Mega Swampert (105 Speed), 
+Physical Sweepers: Tyranitar, Crawdaunt, Metagross, Mega Swampert (105 Speed), Dragonite
 
 Special Sweepers: Volcanion, Mega Pidgeot, Serperior 
 
