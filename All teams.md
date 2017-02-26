@@ -1,22 +1,496 @@
-=== [gen6offensification] Untitled 121 ===
+=== [gen7fullpotential] Untitled 145 ===
 
-Xurkitree  
-Ability: Beast Boost  
+
+=== [gen7franticfusions] Untitled 144 ===
+
+Masquerain (Cofagrigus) @ Leftovers  
+Ability: Mummy  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- U-turn  
+- Sticky Web  
+- Will-O-Wisp  
+- Aqua Jet  
+
+Tyranitar (Excadrill) @ Life Orb  
+Ability: Sand Rush  
+Shiny: Yes  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Iron Head  
+- Crunch  
+- Rapid Spin  
+
+Xurkitree (Greninja-Ash) @ Focus Sash  
+Ability: Battle Bond  
+Shiny: Yes  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
 IVs: 0 Atk  
+- Hydro Pump  
+- Volt Switch  
 - Tail Glow  
+- Thunderbolt  
 
+Landorus-Theriran (Zygarde-Complete) @ Assault Vest  
+Ability: Power Construct  
+- U-turn  
+- Thousand Arrows  
+- Extreme Speed  
+- Knock Off  
 
-=== [gen6trademarked] Untitled 120 ===
-
-Xurkitree @ Choice Scarf  
-Ability: tailglow  
+Latios (Serperior) @ Focus Sash  
+Ability: Contrary  
+Shiny: Yes  
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
+- Leaf Storm  
+- Draco Meteor  
 - Thunderbolt  
-- Volt Switch  
+- Ice Beam  
+
+Weavile (Darmanitan) @ Life Orb  
+Ability: Sheer Force  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Flare Blitz  
+- Knock Off  
+- U-turn  
+- Ice Shard  
+
+
+=== [gen71v1] Salac Chomp ===
+
+Garchomp @ Salac Berry  
+Ability: Rough Skin  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Endure  
+- Outrage  
+- Earthquake  
+- Poison Jab  
+
+Charizard-Mega-X @ Charizardite X  
+Ability: Blaze  
+EVs: 248 HP / 252 Def / 8 Spe  
+Impish Nature  
+- Dragon Dance  
+- Will-O-Wisp  
+- Outrage  
+- Flare Blitz  
+
+Gigalith @ Weakness Policy  
+Ability: Sturdy  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Brave Nature  
+IVs: 0 Spe  
+- Stone Edge  
+- Iron Head  
+- Superpower  
+- Giga Impact  
+
+
+=== [gen71v1] Untitled 139 ===
+
+Garchomp @ Choice Scarf  
+Ability: Rough Skin  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Outrage  
+- Earthquake  
+- Poison Jab  
+- Fire Fang  
+
+Charizard-Mega-X @ Charizardite X  
+Ability: Tough Claws  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Outrage  
+- Flare Blitz  
+- Will-O-Wisp  
+
+Gigalith @ Weakness Policy  
+Ability: Sturdy  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Brave Nature  
+IVs: 0 Spe  
+- Stone Edge  
+- Iron Head  
+- Superpower  
+- Giga Impact  
+
+
+=== [gen71v1] Untitled 140 ===
+
+Garchomp @ Choice Band  
+Ability: Rough Skin  
+EVs: 252 Atk / 252 Def / 4 Spe  
+Adamant Nature  
+- Outrage  
+- Earthquake  
+- Poison Jab  
+- Fire Fang  
+
+Charizard-Mega-X @ Charizardite X  
+Ability: Tough Claws  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Outrage  
+- Flare Blitz  
+- Will-O-Wisp  
+
+Salamence @ Choice Scarf  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Outrage  
+- Earthquake  
+- Fire Fang  
+- Iron Tail  
+
+
+=== [gen71v1] Untitled 138 ===
+
+Garchomp @ Choice Band  
+Ability: Rough Skin  
+EVs: 252 Atk / 252 Def / 4 Spe  
+Adamant Nature  
+- Outrage  
+- Earthquake  
+- Poison Jab  
+- Fire Fang  
+
+Charizard-Mega-X @ Charizardite X  
+Ability: Tough Claws  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Outrage  
+- Flare Blitz  
+- Will-O-Wisp  
+
+Gyarados-Mega @ Gyaradosite  
+Ability: Mold Breaker  
+EVs: 252 Atk / 160 Def / 96 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Waterfall  
+- Outrage  
+- Earthquake  
+
+
+=== [gen7pokemonthenewfirstgeneration] Untitled 134 ===
+
+fungarai @ allrounderbadge  
+Ability: Moxie  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Wood Hammer  
+- earthenkatana  
+- X-Scissor  
+- brambles  
+
+steelicillo @ steelicilliumz  
+Ability: Filter  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Shell Smash  
+- Flamethrower  
+- Flash Cannon  
+- scorchshot  
+
+dorshellical @ Leftovers  
+Ability: Rain Dish  
+- Rain Dance  
+- Ice Shard  
+- Aqua Jet  
+- Avalanche  
+
+sparkideer @ Splash Plate  
+Ability: Trace  
+- crazypunch  
+- powerball  
+- flamingbarrier  
+- crystalblast  
+
+sciuridark @ Splash Plate  
+Ability: Trace  
+IVs: 0 Atk  
+- crazypunch  
+- powerball  
+- backstroke  
+- shadedclaws  
+
+pyromoose @ pyrominiumz  
+Ability: Serene Grace  
+- antlerscorch  
+- brambles  
+- excitementpunch  
+- sweetstrike  
+
+
+=== [gen71v1] Untitled 133 ===
+
+Zygarde @ Haban Berry  
+Ability: Aura Break  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Dragon Dance  
+- Outrage  
+- Thousand Arrows  
+- Extreme Speed  
+
+Charizard-Mega-X @ Charizardite X  
+Ability: Tough Claws  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Outrage  
+- Flare Blitz  
+- Substitute  
+
+Porygon-Z @ Normalium Z  
+Ability: Adaptability  
+EVs: 252 HP / 56 Def / 200 SpA  
+Modest Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Conversion  
+- Hyper Beam  
+- Ice Beam  
+
+
+=== [gen71v1] Untitled 115 ===
+
+Garchomp @ Choice Scarf  
+Ability: Rough Skin  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Outrage  
+- Earthquake  
+- Poison Jab  
+- Giga Impact  
+
+Porygon-Z @ Normalium Z  
+Ability: Adaptability  
+EVs: 252 HP / 56 Def / 200 SpA  
+Modest Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Conversion  
+- Hyper Beam  
+- Ice Beam  
+
+Charizard-Mega-X @ Charizardite X  
+Ability: Blaze  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Will-O-Wisp  
+- Outrage  
+- Flare Blitz  
+
+
+=== [gen71v1] Untitled 132 ===
+
+Charizard-Mega-X @ Charizardite X  
+Ability: Tough Claws  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Outrage  
+- Flare Blitz  
+- Substitute  
+
+Greninja @ Choice Specs  
+Ability: Protean  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hyper Beam  
+- Hydro Cannon  
+- Dark Pulse  
+- Ice Beam  
+
+Gigalith @ Weakness Policy  
+Ability: Sturdy  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Brave Nature  
+IVs: 0 Spe  
+- Stone Edge  
+- Iron Head  
+- Superpower  
+- Giga Impact  
+
+
+=== [gen71v1] Untitled 131 ===
+
+Charizard-Mega-X @ Charizardite X  
+Ability: Tough Claws  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Outrage  
+- Flare Blitz  
+- Substitute  
+
+Kartana @ Choice Scarf  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Smart Strike  
+- Sacred Sword  
+- Giga Impact  
+
+Deoxys-Speed @ Psychium Z  
+Ability: Pressure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psycho Boost  
+- Thunder  
 - Energy Ball  
-- Dazzling Gleam  
+- Ice Beam  
+
+
+=== [gen6istorou] ISTOR ===
+
+maniakley @ Choice Scarf  
+Ability: Unburden  
+- Drain Punch  
+- Iron Head  
+- Fling  
+- Stone Edge  
+
+detuoy @ Choice Band  
+Ability: Pure Power  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Explosion  
+
+Charizard-Mega-X @ Charizardite X  
+Ability: Tough Claws  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Dragon Claw  
+- Flare Blitz  
+- Earthquake  
+
+Excadrill @ Life Orb  
+Ability: Sand Rush  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Iron Head  
+- Rock Slide  
+- Rapid Spin  
+
+ortuska @ Choice Scarf  
+Ability: Mold Breaker  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Smart Strike  
+- Waterfall  
+- Icicle Crash  
+- Brick Break  
+
+pacteorite @ Choice Band  
+Ability: extremeentry  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Stone Edge  
+- U-turn  
+- meteorimpact  
+- Fire Punch  
+
+
+=== [gen6istorou] Untitled 135 ===
+
+maniakley @ Quick Claw  
+Ability: Unburden  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Drain Punch  
+- Stone Edge  
+- Iron Head  
+- Fling  
+
+
+=== [gen7automagic] Untitled 117 ===
+
+Charizard-Mega-X @ Charizardite X  
+Ability: Tough Claws  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Belly Drum  
+- Flame Charge  
+- Dragon Claw  
+- Dragon Dance  
+
+Ditto @ Choice Scarf  
+Ability: Imposter  
+EVs: 252 HP / 4 Def / 252 Spe  
+Jolly Nature  
+- Transform  
+
+Marowak-Alola @ Thick Club  
+Ability: Lightning Rod  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Flame Charge  
+- Shadow Bone  
+- Bulldoze  
+
+Scolipede @ Focus Sash  
+Ability: Speed Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Rock Tomb  
+- Swords Dance  
+- Poison Jab  
+- Megahorn  
+
+Excadrill @ Focus Sash  
+Ability: Mold Breaker  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Rock Tomb  
+- Iron Head  
+- Earthquake  
+
+Chatot @ Choice Scarf  
+Ability: Big Pecks  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Chatter  
+- Nasty Plot  
+- Work Up  
+- Agility  
+
+
+=== [gen7badnboosted] Untitled 124 ===
+
+Araquanid  
+Ability: Water Bubble  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Liquidation  
+- Leech Life  
+- Crunch  
+- Lunge  
+
+Spinda  
+Ability: Own Tempo  
 
 
 === [gen7zshift] Untitled 119 ===
@@ -81,138 +555,194 @@ IVs: 0 Spe
 - Shadow Claw  
 
 
-=== [gen7automagic] Untitled 117 ===
+=== [gen7badnboosted] Untitled 126 ===
 
-Charizard-Mega-X @ Charizardite X  
-Ability: Tough Claws  
+Growlithe @ Life Orb  
+Ability: Flash Fire  
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
-- Belly Drum  
-- Flame Charge  
-- Dragon Claw  
-- Earthquake  
+- Flare Blitz  
+- Wild Charge  
+- Close Combat  
+- Crunch  
 
-Xurkitree @ Choice Scarf  
-Ability: Beast Boost  
+Pikachu @ Light Ball  
+Ability: Static  
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
-- Charge Beam  
-- Tail Glow  
-- Energy Ball  
-- Volt Switch  
-
-Hariyama @ Flame Orb  
-Ability: Guts  
-EVs: 4 HP / 252 Atk / 252 Spe  
-Adamant Nature  
-- Fake Out  
-- Belly Drum  
-- Bullet Punch  
-- Close Combat  
-
-Raichu-Alola @ Life Orb  
-Ability: Surge Surfer  
-EVs: 4 Def / 252 SpA / 252 Spe  
-Timid Nature  
-- Fake Out  
-- Nasty Plot  
 - Thunderbolt  
+- Volt Switch  
+- Surf  
+- Grass Knot  
+
+Lucario @ Lucarionite  
+Ability: Justified  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Close Combat  
+- Bullet Punch  
+- Thunder Punch  
+
+Deoxys-Defense @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Toxic  
+- Recover  
 - Psyshock  
 
-Salazzle @ Life Orb  
-Ability: Corrosion  
-EVs: 4 Def / 252 SpA / 252 Spe  
-Timid Nature  
-- Fake Out  
-- Nasty Plot  
-- Sludge Wave  
-- Fire Blast  
-
-Chatot @ Choice Scarf  
-Ability: Big Pecks  
-EVs: 252 SpA / 4 SpD / 252 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Chatter  
-- Nasty Plot  
-- Boomburst  
-- Heat Wave  
-
-
-=== [gen7automagic] Untitled 118 ===
-
-Excadrill @ Life Orb  
-Ability: Sand Rush  
-EVs: 252 Atk / 4 SpD / 252 Spe  
-Jolly Nature  
-- Earthquake  
-- Iron Head  
-- Rock Tomb  
-- Swords Dance  
-
-Mismagius @ Life Orb  
-Ability: Levitate  
-EVs: 252 SpA / 4 SpD / 252 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Shadow Ball  
-- Mystical Fire  
-- Nasty Plot  
-
-Chatot @ Life Orb  
-Ability: Keen Eye  
-EVs: 252 SpA / 4 SpD / 252 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Chatter  
-- Nasty Plot  
-- Boomburst  
-
-Carracosta  
-Ability: Solid Rock  
-IVs: 0 Atk  
-
-Thundurus-Therian @ Life Orb  
-Ability: Volt Absorb  
-EVs: 252 SpA / 4 SpD / 252 Spe  
+Marshtomp @ Leftovers  
+Ability: Torrent  
+EVs: 4 HP / 252 SpA / 252 Spe  
 Modest Nature  
 IVs: 0 Atk  
-- Electroweb  
-- Nasty Plot  
-- Agility  
-- Hidden Power [Ice]  
+- Scald  
+- Yawn  
+- Ice Beam  
+- Earth Power  
 
-
-=== [gen71v1] Untitled 115 ===
-
-Garchomp @ Choice Scarf  
-Ability: Rough Skin  
+Umbreon @ Life Orb  
+Ability: Synchronize  
 EVs: 252 Atk / 4 SpD / 252 Spe  
-Jolly Nature  
-- Outrage  
-- Earthquake  
-- Poison Jab  
-- Giga Impact  
+Adamant Nature  
+- Bite  
+- Sucker Punch  
+- Payback  
+- Double-Edge  
 
-Porygon-Z @ Normalium Z  
-Ability: Adaptability  
-EVs: 252 HP / 56 Def / 200 SpA  
-Modest Nature  
+
+=== [gen7trademarked] Untitled 120 ===
+
+Xurkitree @ Choice Scarf  
+Ability: tailglow  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
 IVs: 0 Atk  
 - Thunderbolt  
-- Conversion  
-- Hyper Beam  
-- Ice Beam  
+- Volt Switch  
+- Energy Ball  
+- Dazzling Gleam  
+
+Heatran  
+Ability: naturepower  
+IVs: 0 Atk  
+- Nature Power  
+
+
+=== [gen7zmoveseverywhere] Untitled 123 ===
+
+Charizard @ charizardiumz  
+Ability: Blaze  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Flamethrower  
+- Blast Burn  
+- Air Slash  
+- Focus Blast  
+
+Ninetales-Alola @ alolaninetaliumz  
+Ability: Snow Cloak  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Blizzard  
+- Dazzling Gleam  
+- Extrasensory  
+- Dark Pulse  
+
+Hippowdon @ hippowniumz  
+Ability: Sand Stream  
+EVs: 4 HP / 252 Atk / 252 Def  
+Adamant Nature  
+- Earthquake  
+- Slack Off  
+
+Gigalith @ gigaliumz  
+Ability: Sturdy  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Rock Polish  
+- Stone Edge  
+- Iron Head  
+- Explosion  
+
+Tyranitar @ tyraniumz  
+Ability: Sand Stream  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Pursuit  
+- Stone Edge  
+- Iron Head  
+- Earthquake  
+
+Vanilluxe @ vanilliumz  
+Ability: Ice Body  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Blizzard  
+
+
+=== [gen7automagic] Untitled 127 ===
 
 Charizard-Mega-X @ Charizardite X  
 Ability: Blaze  
-EVs: 248 HP / 252 Def / 8 Spe  
-Impish Nature  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Flame Charge  
+- Swords Dance  
+- Dragon Claw  
+- Earthquake  
+
+Togekiss @ Choice Scarf  
+Ability: Serene Grace  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Air Slash  
+- Nasty Plot  
+- Work Up  
+- Aura Sphere  
+
+Quagsire @ Leftovers  
+Ability: Unaware  
+EVs: 252 HP / 4 Atk / 252 Def  
+Relaxed Nature  
+- Recover  
+- Toxic  
+- Earthquake  
+- Scald  
+
+Zygarde @ Soft Sand  
+Ability: Aura Break  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Bulldoze  
+- Coil  
 - Dragon Dance  
-- Will-O-Wisp  
-- Outrage  
-- Flare Blitz  
+- Thousand Arrows  
+
+Xurkitree @ Choice Scarf  
+Ability: Beast Boost  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Discharge  
+- Tail Glow  
+- Energy Ball  
+- Charge  
+
+Ditto @ Choice Scarf  
+Ability: Imposter  
+EVs: 252 HP / 252 Spe  
+Timid Nature  
+IVs: 1 Atk  
+- Transform  
 
 
 === [gen7zshift] Untitled 114 ===
@@ -236,15 +766,15 @@ IVs: 0 Atk
 - Dark Pulse  
 - Moonlight  
 
-Greninja @ Icium Z  
-Ability: Protean  
+Greninja @ Waterium Z  
+Ability: Battle Bond  
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
 - Hydro Cannon  
-- Icy Wind  
+- Scald  
 - Dark Pulse  
-- Grass Knot  
+- Ice Beam  
 
 Chatot @ Flyinium Z  
 Ability: Big Pecks  
@@ -275,6 +805,53 @@ IVs: 0 Spe
 - Payback  
 - Parting Shot  
 - Shadow Claw  
+
+
+=== [gen7choonmons] CHOOOON ===
+
+Pikachu-Libre @ Life Orb  
+Ability: Lightning Rod  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Fake Out  
+- Volt Tackle  
+- Extreme Speed  
+- imprisonedstrike  
+
+Alakazam @ Life Orb  
+Ability: Magic Guard  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Shadow Ball  
+- Dazzling Gleam  
+- Energy Ball  
+
+Porygon-Z @ Choice Scarf  
+Ability: Adaptability  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Tri Attack  
+- Shadow Ball  
+- Thunderbolt  
+- Ice Beam  
+
+Typhlosion @ Life Orb  
+Ability: Flash Fire  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Heat Wave  
+- Fire Blast  
+- Focus Blast  
+- Extrasensory  
+
+Xurkitree  
+Ability: Beast Boost  
+IVs: 0 Atk  
+- Dazzling Gleam  
 
 
 === [gen7balancedhackmons] Untitled 113 ===
@@ -1154,7 +1731,7 @@ Serious Nature
 - Thousand Waves  
 
 
-=== [gen6movemastery] Untitled 94 ===
+=== [gen7movemastery] Untitled 94 ===
 
 Charizard-Mega-Y @ Charizardite Y  
 Ability: Drought  
@@ -1212,7 +1789,7 @@ Jolly Nature
 - Wood Hammer  
 
 
-=== [gen6movemastery] Move Mastery ===
+=== [gen7movemastery] Move Mastery ===
 
 Charizard-Mega-Y @ Charizardite Y  
 Ability: Drought  
@@ -1564,62 +2141,6 @@ Jolly Nature
 - Thunder Punch  
 
 
-=== [gen6istorou] ISTOR ===
-
-yddraig @ Life Orb  
-Ability: Speed Boost  
-EVs: 4 HP / 252 Atk / 252 Spe  
-Adamant Nature  
-IVs: 0 Atk  
-- Boomburst  
-- Draco Meteor  
-- Fire Blast  
-- Thunder Wave  
-
-detuoy @ Choice Band  
-Ability: Pure Power  
-EVs: 4 HP / 252 Atk / 252 Spe  
-Adamant Nature  
-- Explosion  
-
-Charizard-Mega-X @ Charizardite X  
-Ability: Tough Claws  
-EVs: 252 Atk / 4 SpD / 252 Spe  
-Jolly Nature  
-- Dragon Dance  
-- Dragon Claw  
-- Flare Blitz  
-- Earthquake  
-
-Excadrill @ Life Orb  
-Ability: Sand Rush  
-EVs: 252 Atk / 4 SpD / 252 Spe  
-Jolly Nature  
-- Earthquake  
-- Iron Head  
-- Rock Slide  
-- Rapid Spin  
-
-Tyranitar @ Smooth Rock  
-Ability: Sand Stream  
-EVs: 252 HP / 4 Atk / 252 SpA  
-Rash Nature  
-- Stealth Rock  
-- Thunder Wave  
-- Rock Slide  
-- Pursuit  
-
-Xurkitree @ Choice Scarf  
-Ability: Beast Boost  
-EVs: 252 SpA / 4 SpD / 252 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Thunderbolt  
-- Volt Switch  
-- Energy Ball  
-- Signal Beam  
-
-
 === [gen6trademarkedenchantment] EI TMed ===
 
 Victini @ Heat Rock  
@@ -1740,12 +2261,17 @@ Naive Nature
 - Iron Head  
 
 
-=== [gen6crossevolution] Untitled 77 ===
+=== [gen7crossevolution] Untitled 77 ===
 
 Darmanitan (Archen) @ Life Orb  
 Ability: Sheer Force  
 - Flare Blitz  
 - Aqua Tail  
+
+Gyarados (Cranidos) @ Choice Scarf  
+Ability: Intimidate  
+- Waterfall  
+- Rock Polish  
 
 
 === [gen61v1] 1v1 Zard Kyurem Sect ===
@@ -3513,7 +4039,7 @@ Jolly Nature
 - Blaze Kick  
 
 
-=== [gen6classichackmons] CH GG ===
+=== [gen7classichackmons] CH GG ===
 
 Mewtwo-Mega-X @ Life Orb  
 Ability: Parental Bond  
@@ -3550,7 +4076,7 @@ Hasty Nature
 - Draco Meteor  
 - Oblivion Wing  
 - Thousand Arrows  
-- Volt Switch  
+- Moongeist Beam  
 
 Arceus-Steel @ Leftovers  
 Ability: Prankster  
@@ -5408,67 +5934,6 @@ Jolly Nature
 - Blaze Kick  
 
 
-=== [gen6choonmons] DragonHeaven/Choon ===
-
-Pinsir-Mega @ Pinsirite  
-Ability: Aerilate  
-EVs: 252 Atk / 4 SpD / 252 Spe  
-Jolly Nature  
-- Quick Attack  
-- X-Scissor  
-- Return  
-- Swords Dance  
-
-Gengar @ Focus Sash  
-Ability: Prankster  
-EVs: 252 HP / 4 SpA / 252 SpD  
-Calm Nature  
-IVs: 0 Atk  
-- Will-O-Wisp  
-- Toxic  
-- Destiny Bond  
-- Hex  
-
-Pikachu-Libre @ Life Orb  
-Ability: Lightning Rod  
-EVs: 252 Atk / 4 SpD / 252 Spe  
-Jolly Nature  
-- Fake Out  
-- Volt Tackle  
-- Extreme Speed  
-- imprisonedstrike  
-
-Alakazam @ Life Orb  
-Ability: Magic Guard  
-EVs: 252 SpA / 4 SpD / 252 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Psyshock  
-- Shadow Ball  
-- Dazzling Gleam  
-- Energy Ball  
-
-Porygon-Z @ Choice Scarf  
-Ability: Adaptability  
-EVs: 252 SpA / 4 SpD / 252 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Tri Attack  
-- Shadow Ball  
-- Thunderbolt  
-- Ice Beam  
-
-Typhlosion @ Life Orb  
-Ability: Flash Fire  
-EVs: 252 SpA / 4 SpD / 252 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Heat Wave  
-- Fire Blast  
-- Focus Blast  
-- Extrasensory  
-
-
 === [gen6franticfusions] DragonHeaven/Untitled 33 ===
 
 Latios (Serperior) @ Leftovers  
@@ -5715,8 +6180,8 @@ Impish Nature
 === [gen6istorou] Untitled 82 ===
 
 Garchomp  
-Ability: Sand Veil  
-IVs: 0 Atk  
+Ability: Rough Skin  
+- Dragon Claw  
 
 
 === [gen6pokebilities] Untitled 83 ===
@@ -5968,6 +6433,67 @@ Ability: Keen Eye
 IVs: 0 Atk  
 
 
+=== [gen7inheritance] Untitled 123 ===
+
+Charizard-Mega-X @ Charizardite X  
+Ability: Victory Star  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- V-create  
+- Bolt Strike  
+- Flame Charge  
+- Brick Break  
+
+Terrakion @ Normal Gem  
+Ability: Unburden  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Fake Out  
+- High Jump Kick  
+- Stone Edge  
+- Poison Jab  
+
+Vespiquen @ Leftovers  
+Ability: Simple  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Stored Power  
+- Giga Drain  
+- Air Slash  
+
+Type: Null @ Eviolite  
+Ability: Fur Coat  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Return  
+- Parting Shot  
+- Rest  
+- Toxic  
+
+Hoopa-Unbound @ Life Orb  
+Ability: Adaptability  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dark Pulse  
+- Psyshock  
+- Hidden Power [Fighting]  
+- Agility  
+
+Alakazam @ Life Orb  
+Ability: Psychic Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Shadow Ball  
+- Thunderbolt  
+- Energy Ball  
+
+
 === [gen6franticfusions] Untitled 113 ===
 
 Kyurem-Black (Charizard) @ Life Orb  
@@ -6024,13 +6550,6 @@ Adamant Nature
 - Giga Impact  
 
 
-=== Untitled 113 ===
-
-Garchomp  
-Ability: Sand Veil  
-IVs: 0 Atk  
-
-
 === [gen7zshift] Untitled 122 ===
 
 Porygon-Z @ Normalium Z  
@@ -6058,5 +6577,236 @@ IVs: 0 Atk
 - Hydro Cannon  
 - Scald  
 - Dark Pulse  
+
+
+=== [gen7inheritance] Untitled 124 ===
+
+
+=== [gen7badnboosted] Untitled 125 ===
+
+Ariados @ Leftovers  
+Ability: Insomnia  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Sludge Bomb  
+- Toxic Spikes  
+- Sticky Web  
+- Foul Play  
+
+Zoroark @ Leftovers  
+Ability: Illusion  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk / 30 SpA  
+- Nasty Plot  
+- Night Daze  
+- Flamethrower  
+- Hidden Power [Grass]  
+
+Skarmory @ Leftovers  
+Ability: Sturdy  
+EVs: 4 HP / 252 Def / 252 SpD  
+- Stealth Rock  
+- Roost  
+- Brave Bird  
+- Spikes  
+
+Sableye @ Leftovers  
+Ability: Prankster  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Dark Pulse  
+- Will-O-Wisp  
+- Taunt  
+- Recover  
+
+Torkoal @ Leftovers  
+Ability: White Smoke  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Shell Smash  
+- Earth Power  
+- Fire Blast  
+- Rapid Spin  
+
+Linoone @ Leftovers  
+Ability: Pickup  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Belly Drum  
+- Extreme Speed  
+- Seed Bomb  
+- Shadow Claw  
+
+
+=== [gen7automagic] Untitled 128 ===
+
+Darmanitan @ Choice Scarf  
+Ability: Sheer Force  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Power-Up Punch  
+- Belly Drum  
+
+
+=== [gen7automagic] Untitled 118 ===
+
+Excadrill @ Life Orb  
+Ability: Sand Rush  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Iron Head  
+- Rock Tomb  
+- Swords Dance  
+
+Mismagius @ Life Orb  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Shadow Ball  
+- Mystical Fire  
+- Nasty Plot  
+
+Chatot @ Life Orb  
+Ability: Keen Eye  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Chatter  
+- Nasty Plot  
+- Boomburst  
+
+Carracosta  
+Ability: Solid Rock  
+IVs: 0 Atk  
+
+Thundurus-Therian @ Life Orb  
+Ability: Volt Absorb  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Electroweb  
+- Nasty Plot  
+- Agility  
+- Hidden Power [Ice]  
+
+
+=== [gen7choonmons] Untitled 133 ===
+
+Feraligatr @ feraligatrite  
+Ability: Stall  
+IVs: 0 Atk  
+
+
+=== [gen6moveequality] Untitled 134 ===
+
+Xurkitree  
+Ability: Beast Boost  
+IVs: 0 Atk  
+- Charge Beam  
+
+
+=== [gen6istorou] Untitled 136 ===
+
+detuoy @ Choice Band  
+Ability: Aerilate  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Explosion  
+
+
+=== [gen7pokemonthenewfirstgeneration] Untitled 137 ===
+
+steelicillo @ steelicilliumz  
+Ability: Filter  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Shell Smash  
+- scorchshot  
+- Flash Cannon  
+
+Snorlax @ snorlaxite  
+Ability: Thick Fat  
+- Body Slam  
+
+Charizard-Mega-X @ Charizardite X  
+Ability: Tough Claws  
+- Dragon Claw  
+
+
+=== [gen7zmoveseverywhere] Untitled 141 ===
+
+Charizard @ charizardiumz  
+Ability: Blaze  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Flamethrower  
+- Blast Burn  
+- Air Slash  
+- Focus Blast  
+
+Gigalith @ gigaliumz  
+Ability: Sturdy  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Rock Polish  
+- Stone Edge  
+- Iron Head  
+- Explosion  
+
+Groudon @ groudoniumz  
+Ability: Drought  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Precipice Blades  
+- Fire Punch  
+- Stone Edge  
+- Rock Polish  
+
+Ninetales @ ninetalesiumz  
+Ability: Drought  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Fire Blast  
+- Flamethrower  
+- Solar Beam  
+- Hex  
+
+Hippowdon @ hippowniumz  
+Ability: Sand Stream  
+EVs: 4 HP / 252 Atk / 252 Def  
+Adamant Nature  
+- Earthquake  
+- Slack Off  
+- Roar  
+- Iron Head  
+
+Torkoal @ torkoaliumz  
+Ability: Drought  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Shell Smash  
+- Heat Wave  
+- Solar Beam  
+- Earth Power  
+
+
+=== [gen7pokemonthenewfirstgeneration] Untitled 142 ===
+
+Charizard @ Life Orb  
+Ability: Blaze  
+- Acrobatics  
+- Air Slash  
+- Ancient Power  
+- Body Slam  
 
 
